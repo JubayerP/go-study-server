@@ -1,0 +1,26 @@
+[
+    {
+      "category_id": 1,
+      "category_name": "UI/UX Design"
+    },
+    {
+      "category_id": 2,
+      "category_name": "Figma to HTML"
+    },
+    {
+      "category_id": 3,
+      "category_name": "Web Design"
+    },
+    {
+      "category_id": 4,
+      "category_name": "React JS Course"
+    },
+    {
+      "category_id": 5,
+      "category_name": "Next JS Course"
+    },
+    {
+      "category_id": 6,
+      "category_name": "React Native Course"
+    }
+  ]
