@@ -1,0 +1,17 @@
+[
+    {
+      "id": 1,
+      "name": "Learn new skills",
+      "desc": "With flexible courses"
+    },
+    {
+      "id": 2,
+      "name": "Expert Teacher",
+      "desc": "Upskill with Speacilist"
+    },
+    {
+      "id": 3,
+      "name": "Online Degrees",
+      "desc": "Study flexibly online"
+    }
+  ]

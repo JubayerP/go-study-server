@@ -7,6 +7,7 @@ app.use(cors());
 
 const categories = require('./data/categories.json');
 const courses = require('./data/courses.json');
+const skills = require('./data/skills.json')
 
 
 app.get('/', (req, res) => {
@@ -25,6 +26,10 @@ app.get('/courses/:id', (req, res)=>{
     const id = parseInt(req.params.id);
     const singleCourse = courses.find(course => course.id === id);
     res.send(singleCourse);
+})
+
+app.get('/skills', (req, res) => {
+    res.send(skills)
 })
 
 app.listen(port, () => {
