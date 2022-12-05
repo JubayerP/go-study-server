@@ -2,16 +2,19 @@
     {
       "id": 1,
       "name": "Learn new skills",
+      "image": "https://i.ibb.co/XLqJX03/1.png",
       "desc": "With flexible courses"
     },
     {
       "id": 2,
       "name": "Expert Teacher",
+      "image": "https://i.ibb.co/P5fLX9k/2.png",
       "desc": "Upskill with Speacilist"
     },
     {
       "id": 3,
       "name": "Online Degrees",
+      "image": "https://i.ibb.co/dK4f9gd/3.png",
       "desc": "Study flexibly online"
     }
   ]
