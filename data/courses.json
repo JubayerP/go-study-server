@@ -43,7 +43,7 @@
   },
   {
     "id": 4,
-    "name": "Learn UI/UX Design For Begginers",
+    "name": "Learn React JS Core For Begginers",
     "duration": "6 Months",
     "image": "https://i.ibb.co/k1TjxK8/programmers-using-javascript-programming-language-computer-tiny-people-javascript-language-javascrip.webp",
     "price": 75,
@@ -57,7 +57,7 @@
   },
   {
     "id": 5,
-    "name": "Learn UI/UX Design For Begginers",
+    "name": "Learn Next JS Fundamentals For Begginers",
     "duration": "3 Months",
     "image": "https://i.ibb.co/KLwxfzj/download.png",
     "price": 55,
@@ -71,7 +71,7 @@
   },
   {
     "id": 6,
-    "name": "Learn UI/UX Design For Begginers",
+    "name": "Learn React Native For Mobile",
     "duration": "4 Months",
     "image": "https://i.ibb.co/WBz3ZbP/app-development-illustration-52683-47931.webp",
     "price": 69,
