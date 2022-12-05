@@ -15,72 +15,72 @@
   },
   {
     "id": 2,
-    "name": "Learn UI/UX Design For Begginers",
-    "duration": "5 Months",
-    "image": "https://i.ibb.co/KqGwHKg/gradient-ui-ux-background-23-2149052117.webp",
-    "price": 59,
-    "desc": "In this course By learning UX design, you can become a more valuable asset to your current employer or you can change your whole career and reach out to potential employers (yourself included). And, who knows, once you have got a taste of UX, you might dive into UI design and keep expanding your knowledge and skill set.",
+    "name": "Learn Figma to HTML Designs For Begginers",
+    "duration": "2 Months",
+    "image": "https://i.ibb.co/8dbbv1R/desktop-smartphone-app-development-23-2148683810.webp",
+    "price": 39,
+    "desc": "Figma to html is a figma plugin that helps convert your figma design to code easily without loosing any bit of your design or colors. This is made possible using only the priniciples of good design and guide lines so as to get the so desired result of an exact replica of your design in code form",
     "details": [
-      "Visual Elements of User Interface Design",
-      "UX Design Fundamentals",
-      "Web Design: Strategy and Information Architecture",
-      "Web Design: Wireframes to Prototypes"
+      "Figma can export to HTML",
+      "which makes it a good choice for creating web user interfaces",
+      "It has a user-friendly drag-and-drop interface and a library of reusable components",
+      "which makes it easy to create complex user interfaces."
     ]
   },
   {
     "id": 3,
-    "name": "Learn UI/UX Design For Begginers",
-    "duration": "5 Months",
-    "image": "https://i.ibb.co/KqGwHKg/gradient-ui-ux-background-23-2149052117.webp",
-    "price": 59,
-    "desc": "In this course By learning UX design, you can become a more valuable asset to your current employer or you can change your whole career and reach out to potential employers (yourself included). And, who knows, once you have got a taste of UX, you might dive into UI design and keep expanding your knowledge and skill set.",
+    "name": "Web Design Crash Course For Begginers",
+    "duration": "4.5 Months",
+    "image": "https://i.ibb.co/4Y6yPHy/web-development-programmer-engineering-coding-website-augmented-reality-interface-screens-developer.webp",
+    "price": 49,
+    "desc": "Web design encompasses many different skills and disciplines in the production and maintenance of websites. The different areas of web design include web graphic design; user interface design; authoring, including standardised code and proprietary software; user experience design; and search engine",
     "details": [
-      "Visual Elements of User Interface Design",
-      "UX Design Fundamentals",
-      "Web Design: Strategy and Information Architecture",
-      "Web Design: Wireframes to Prototypes"
+      "Increased Revenue. Simply put a strategically designed",
+      "Attract more visitors and help convert those visitors into prospects",
+      "Credibility.",
+      "Creates a Strong First Impression"
     ]
   },
   {
     "id": 4,
     "name": "Learn UI/UX Design For Begginers",
-    "duration": "5 Months",
-    "image": "https://i.ibb.co/KqGwHKg/gradient-ui-ux-background-23-2149052117.webp",
-    "price": 59,
-    "desc": "In this course By learning UX design, you can become a more valuable asset to your current employer or you can change your whole career and reach out to potential employers (yourself included). And, who knows, once you have got a taste of UX, you might dive into UI design and keep expanding your knowledge and skill set.",
+    "duration": "6 Months",
+    "image": "https://i.ibb.co/k1TjxK8/programmers-using-javascript-programming-language-computer-tiny-people-javascript-language-javascrip.webp",
+    "price": 75,
+    "desc": "React is a free and open-source front-end JavaScript library for building user interfaces based on UI components. It is maintained by Meta and a community of individual developers and companies.",
     "details": [
-      "Visual Elements of User Interface Design",
-      "UX Design Fundamentals",
-      "Web Design: Strategy and Information Architecture",
-      "Web Design: Wireframes to Prototypes"
+      "General speed",
+      "Caching capabilities",
+      "UI/UX Component Based",
+      "Fast & Less Loading Time"
     ]
   },
   {
     "id": 5,
     "name": "Learn UI/UX Design For Begginers",
-    "duration": "5 Months",
-    "image": "https://i.ibb.co/KqGwHKg/gradient-ui-ux-background-23-2149052117.webp",
-    "price": 59,
-    "desc": "In this course By learning UX design, you can become a more valuable asset to your current employer or you can change your whole career and reach out to potential employers (yourself included). And, who knows, once you have got a taste of UX, you might dive into UI design and keep expanding your knowledge and skill set.",
+    "duration": "3 Months",
+    "image": "https://i.ibb.co/KLwxfzj/download.png",
+    "price": 55,
+    "desc": "Next.js is an open-source web development framework created by Vercel enabling React-based web applications with server-side rendering and generating static websites.",
     "details": [
-      "Visual Elements of User Interface Design",
-      "UX Design Fundamentals",
-      "Web Design: Strategy and Information Architecture",
-      "Web Design: Wireframes to Prototypes"
+      "Excellent performance in terms of load times.",
+      "Load times helped with “lazy loading” and automatic code splitting.",
+      "Tons of support for developers",
+      "Great SEO"
     ]
   },
   {
     "id": 6,
     "name": "Learn UI/UX Design For Begginers",
-    "duration": "5 Months",
-    "image": "https://i.ibb.co/KqGwHKg/gradient-ui-ux-background-23-2149052117.webp",
-    "price": 59,
-    "desc": "In this course By learning UX design, you can become a more valuable asset to your current employer or you can change your whole career and reach out to potential employers (yourself included). And, who knows, once you have got a taste of UX, you might dive into UI design and keep expanding your knowledge and skill set.",
+    "duration": "4 Months",
+    "image": "https://i.ibb.co/WBz3ZbP/app-development-illustration-52683-47931.webp",
+    "price": 69,
+    "desc": "React Native is an open-source UI software framework created by Meta Platforms, Inc. It is used to develop applications for Android, Android TV, iOS, macOS, tvOS, Web, Windows and UWP by enabling developers to use the React framework along with native platform capabilities.",
     "details": [
-      "Visual Elements of User Interface Design",
-      "UX Design Fundamentals",
-      "Web Design: Strategy and Information Architecture",
-      "Web Design: Wireframes to Prototypes"
+      "Native Look and Feel",
+      "Live Reload",
+      "UI Focused",
+      "Third-Party Plugins"
     ]
   }
 ]
